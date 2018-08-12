@@ -1,5 +1,7 @@
 # Graph Based Image Segmentation
-Graph Based image segmentation
+Graph Based image segmentation 
+
+Used a Classical method for the image segmentation instead of using Deep learning methods Like CNN or Semantic Segmantic Segmentation or Auto-Encoders.
 
 1. Run "cmake ."  to compile programs using cmake (sample CMakeLists.txt file is included)
 2. Run "make"
