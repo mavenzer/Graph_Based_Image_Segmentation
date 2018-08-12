@@ -1,2 +1,2 @@
-# Graph_Based_Image_Segmentation
+# Graph Based Image Segmentation
 Graph Based image segmentation
