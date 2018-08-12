@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(minCut)
+find_package( OpenCV REQUIRED )
+add_executable( minCut minCut.cpp )
+add_definitions(-std=c++11)
+target_link_libraries( minCut ${OpenCV_LIBS} )
